@@ -1,8 +1,10 @@
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
+from selenium.common.exceptions import TimeoutException
 from behave import given, when, then
 from Pages.landing_page import LandingPage
 from Locators.landing_page_locators import LandingPageLocators
 from Utilities.resource import URL
-import time
 
 @given("user is on the landing page")
 def step_user_is_on_the_landing_page(context):
@@ -40,11 +42,15 @@ def step_verify_copyright_text(context):
 def step_click_enter_store(context):
     context.logger.info('Clicking on "Enter the Store" link.')
     context.landing_page.click_enter_store()
-    time.sleep(2)  # Consider using an explicit wait for better stability
     context.logger.info('Clicked on "Enter the Store" link.')
 
 @then('user should be redirected to the Catalog Page with URL "https://petstore.octoperf.com/actions/Catalog.action"')
 def step_verify_redirected_url(context):
     context.logger.info('Verifying redirection to Catalog page.')
-    assert context.driver.current_url == "https://petstore.octoperf.com/actions/Catalog.action"
-    context.logger.info('Redirected to Catalog page successfully.')
+    try:
+        WebDriverWait(context.driver, 10).until(
+            ec.url_to_be("https://petstore.octoperf.com/actions/Catalog.action"))
+        context.logger.info('Redirected to Catalog page successfully.')
+    except TimeoutException:
+        context.logger.error(f"Expected URL not found. Current URL: {context.driver.current_url}")
+        raise Exception("Timeout waiting for the Catalog page URL.")
