@@ -1,0 +1,166 @@
+2025-04-07 15:22:46,932 - INFO - Logger initialized successfully.
+2025-04-07 15:22:46,933 - INFO - Starting WebDriver...
+2025-04-07 15:22:48,502 - INFO - Navigating to the landing page.
+2025-04-07 15:22:49,435 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:22:49,437 - INFO - Verifying page title.
+2025-04-07 15:22:49,443 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:22:49,444 - INFO - Verifying header text.
+2025-04-07 15:22:49,489 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:22:49,490 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:22:49,521 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:22:49,522 - INFO - Verifying copyright text.
+2025-04-07 15:22:49,548 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:22:49,550 - INFO - Navigating to the landing page.
+2025-04-07 15:22:49,569 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:22:49,570 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:22:50,358 - INFO - Clicked on "Enter the Store" link.
+2025-04-07 15:22:50,359 - INFO - Verifying redirection to Catalog page.
+2025-04-07 15:22:50,366 - INFO - Redirected to Catalog page successfully.
+2025-04-07 15:22:50,369 - INFO - Closing WebDriver...
+2025-04-07 15:28:27,405 - INFO - Logger initialized successfully.
+2025-04-07 15:28:27,406 - INFO - Starting WebDriver...
+2025-04-07 15:28:28,965 - INFO - Navigating to the landing page.
+2025-04-07 15:28:30,080 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:28:30,082 - INFO - Verifying page title.
+2025-04-07 15:28:30,089 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:28:30,090 - INFO - Verifying header text.
+2025-04-07 15:28:30,132 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:28:30,133 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:28:30,164 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:28:30,164 - INFO - Verifying copyright text.
+2025-04-07 15:28:30,193 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:28:30,200 - INFO - Already on the landing page: https://petstore.octoperf.com/
+2025-04-07 15:28:30,201 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:28:41,470 - INFO - Closing WebDriver...
+2025-04-07 15:30:16,160 - INFO - Logger initialized successfully.
+2025-04-07 15:30:16,161 - INFO - Starting WebDriver...
+2025-04-07 15:30:17,751 - INFO - Navigating to the landing page.
+2025-04-07 15:30:18,682 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:30:18,684 - INFO - Verifying page title.
+2025-04-07 15:30:18,691 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:30:18,692 - INFO - Verifying header text.
+2025-04-07 15:30:18,733 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:30:18,735 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:30:18,763 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:30:18,764 - INFO - Verifying copyright text.
+2025-04-07 15:30:18,789 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:30:18,795 - INFO - Already on the landing page: https://petstore.octoperf.com/
+2025-04-07 15:30:18,796 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:30:30,113 - INFO - Closing WebDriver...
+2025-04-07 15:31:33,197 - INFO - Logger initialized successfully.
+2025-04-07 15:31:33,198 - INFO - Starting WebDriver...
+2025-04-07 15:31:34,694 - INFO - Navigating to the landing page.
+2025-04-07 15:31:35,623 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:31:35,625 - INFO - Verifying page title.
+2025-04-07 15:31:35,631 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:31:35,632 - INFO - Verifying header text.
+2025-04-07 15:31:35,679 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:31:35,680 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:31:35,806 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:31:35,807 - INFO - Verifying copyright text.
+2025-04-07 15:31:35,832 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:31:35,839 - INFO - Already on the landing page: https://petstore.octoperf.com/
+2025-04-07 15:31:35,840 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:31:56,955 - INFO - Closing WebDriver...
+2025-04-07 15:33:17,516 - INFO - Logger initialized successfully.
+2025-04-07 15:33:17,516 - INFO - Starting WebDriver...
+2025-04-07 15:33:19,021 - INFO - Navigating to the landing page.
+2025-04-07 15:33:19,972 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:33:19,974 - INFO - Verifying page title.
+2025-04-07 15:33:19,981 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:33:19,982 - INFO - Verifying header text.
+2025-04-07 15:33:20,027 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:33:20,028 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:33:20,057 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:33:20,058 - INFO - Verifying copyright text.
+2025-04-07 15:33:20,084 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:33:20,092 - INFO - Already on the landing page: https://petstore.octoperf.com/
+2025-04-07 15:33:20,093 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:33:21,078 - INFO - Clicked on "Enter the Store" link.
+2025-04-07 15:33:21,080 - INFO - Verifying redirection to Catalog page.
+2025-04-07 15:33:21,086 - INFO - Redirected to Catalog page successfully.
+2025-04-07 15:33:21,091 - INFO - Closing WebDriver...
+2025-04-07 15:35:22,011 - INFO - Logger initialized successfully.
+2025-04-07 15:35:22,012 - INFO - Starting WebDriver...
+2025-04-07 15:35:23,571 - INFO - Navigating to the landing page.
+2025-04-07 15:35:24,543 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:35:24,544 - INFO - Verifying page title.
+2025-04-07 15:35:24,551 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:35:24,551 - INFO - Verifying header text.
+2025-04-07 15:35:24,595 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:35:24,596 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:35:24,624 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:35:24,624 - INFO - Verifying copyright text.
+2025-04-07 15:35:24,650 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:35:24,652 - INFO - Navigating to the landing page.
+2025-04-07 15:35:24,671 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:35:24,674 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:35:25,474 - INFO - Clicked on "Enter the Store" link.
+2025-04-07 15:35:25,476 - INFO - Verifying redirection to Catalog page.
+2025-04-07 15:35:25,482 - INFO - Redirected to Catalog page successfully.
+2025-04-07 15:35:25,483 - INFO - Closing WebDriver...
+2025-04-07 15:37:00,286 - INFO - Logger initialized successfully.
+2025-04-07 15:37:00,286 - INFO - Starting WebDriver...
+2025-04-07 15:37:01,768 - INFO - Navigating to the landing page.
+2025-04-07 15:37:02,450 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:37:02,451 - INFO - Verifying page title.
+2025-04-07 15:37:02,700 - INFO - Already on the landing page: https://petstore.octoperf.com/
+2025-04-07 15:37:02,701 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:37:02,703 - INFO - Closing WebDriver...
+2025-04-07 15:43:10,619 - INFO - Logger initialized successfully.
+2025-04-07 15:43:10,619 - INFO - Starting WebDriver...
+2025-04-07 15:43:12,254 - INFO - Navigating to the landing page.
+2025-04-07 15:43:13,308 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:43:13,314 - INFO - Verifying page title.
+2025-04-07 15:43:13,320 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:43:13,321 - INFO - Verifying header text.
+2025-04-07 15:43:13,363 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:43:13,364 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:43:13,389 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:43:13,390 - INFO - Verifying copyright text.
+2025-04-07 15:43:13,416 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:43:13,418 - INFO - Navigating to the landing page.
+2025-04-07 15:43:13,437 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:43:13,438 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:43:14,221 - INFO - Clicked on "Enter the Store" link.
+2025-04-07 15:43:14,222 - INFO - Verifying redirection to Catalog page.
+2025-04-07 15:43:14,231 - INFO - Redirected to Catalog page successfully.
+2025-04-07 15:43:14,232 - INFO - Closing WebDriver...
+2025-04-07 15:46:34,304 - INFO - Logger initialized successfully.
+2025-04-07 15:46:34,304 - INFO - Starting WebDriver...
+2025-04-07 15:46:35,841 - INFO - Navigating to the landing page.
+2025-04-07 15:46:36,759 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:46:36,762 - INFO - Verifying page title.
+2025-04-07 15:46:36,769 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:46:36,770 - INFO - Verifying header text.
+2025-04-07 15:46:36,811 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:46:36,812 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:46:36,844 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:46:36,845 - INFO - Verifying copyright text.
+2025-04-07 15:46:36,872 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:46:36,874 - INFO - Navigating to the landing page.
+2025-04-07 15:46:36,891 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:46:36,892 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:46:37,684 - INFO - Clicked on "Enter the Store" link.
+2025-04-07 15:46:37,685 - INFO - Verifying redirection to Catalog page.
+2025-04-07 15:46:37,691 - INFO - Redirected to Catalog page successfully.
+2025-04-07 15:46:37,691 - INFO - Closing WebDriver...
+2025-04-07 15:50:32,678 - INFO - Logger initialized successfully.
+2025-04-07 15:50:32,678 - INFO - Starting WebDriver...
+2025-04-07 15:50:34,287 - INFO - Navigating to the landing page.
+2025-04-07 15:50:35,264 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:50:35,265 - INFO - Verifying page title.
+2025-04-07 15:50:35,272 - INFO - Page title verified: JPetStore Demo
+2025-04-07 15:50:35,273 - INFO - Verifying header text.
+2025-04-07 15:50:35,314 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-07 15:50:35,315 - INFO - Verifying link button "Enter the Store".
+2025-04-07 15:50:35,367 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-07 15:50:35,368 - INFO - Verifying copyright text.
+2025-04-07 15:50:35,393 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-07 15:50:35,395 - INFO - Navigating to the landing page.
+2025-04-07 15:50:35,411 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-07 15:50:35,412 - INFO - Clicking on "Enter the Store" link.
+2025-04-07 15:50:36,190 - INFO - Clicked on "Enter the Store" link.
+2025-04-07 15:50:36,191 - INFO - Verifying redirection to Catalog page.
+2025-04-07 15:50:36,199 - INFO - Redirected to Catalog page successfully.
+2025-04-07 15:50:36,200 - INFO - Closing WebDriver...
