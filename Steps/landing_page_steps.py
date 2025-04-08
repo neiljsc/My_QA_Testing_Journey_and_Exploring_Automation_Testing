@@ -4,20 +4,20 @@ from selenium.common.exceptions import TimeoutException
 from behave import given, when, then
 from Pages.landing_page import LandingPage
 from Locators.landing_page_locators import LandingPageLocators
-from Utilities.resource import URL
+from Utilities.resource import LANDING_URL
 
 @given("user is on the landing page")
 def step_user_is_on_the_landing_page(context):
     context.logger.info("Navigating to the landing page.")
-    context.driver.get(URL)
+    context.driver.get(LANDING_URL)
     context.landing_page = LandingPage(context.driver)
-    context.logger.info("Landed on the page: %s", URL)
+    context.logger.info("Landed on the page: %s", LANDING_URL)
 
-@then('user should see the page title as "JPetStore Demo"')
+@then('user should see the Landing page title as "JPetStore Demo"')
 def step_verify_page_title(context):
-    context.logger.info("Verifying page title.")
+    context.logger.info("Verifying Landing page title.")
     assert context.landing_page.get_page_title() == LandingPageLocators.landing_page_title
-    context.logger.info("Page title verified: JPetStore Demo")
+    context.logger.info("Landing page title verified: JPetStore Demo")
 
 @then('user should see the header text')
 def step_verify_header_text(context):

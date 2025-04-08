@@ -1,7 +1,6 @@
 from Locators.landing_page_locators import LandingPageLocators
 from Utilities.helper import is_element_visible_and_clickable
 
-
 class LandingPage:
     def __init__(self, driver):
         self.driver = driver

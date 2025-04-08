@@ -7,7 +7,7 @@ Background:
   Given user is on the landing page
 
 Scenario: Verify elements in the Landing Page
-  Then user should see the page title as "JPetStore Demo"
+  Then user should see the Landing page title as "JPetStore Demo"
   Then user should see the header text
   Then user should see the link button
   Then user should see the copyright text
