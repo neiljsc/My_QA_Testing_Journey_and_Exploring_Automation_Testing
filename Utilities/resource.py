@@ -1,10 +1,11 @@
-import os
-
 """ Constant variables to be passed down to other classes """
-WAIT_TIMEOUT = 10
-INDEX = 1
-STARTS_WITH_ZERO = 0
-EMPTY_STRING = ""
 LANDING_URL = "https://petstore.octoperf.com/"
 CATALOG_URL = "https://petstore.octoperf.com/actions/Catalog.action"
-LOG_PATH = os.path.join(os.getcwd(), "Utilities", "Logs", "logfile.log")
+CART_URL = "https://petstore.octoperf.com/actions/Cart.action?viewCart="
+SIGNIN_URL = "https://petstore.octoperf.com/actions/Account.action?signonForm="
+HELP_URL = "https://petstore.octoperf.com/help.html"
+FISH_PAGE_URL = "https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH"
+DOGS_PAGE_URL = "https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS"
+REPTILES_PAGE_URL = "https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES"
+CATS_PAGE_URL = "https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS"
+BIRDS_PAGE_URL = "https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS"

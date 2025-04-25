@@ -354,3 +354,1149 @@
 2025-04-08 15:57:13,290 - INFO - Checking visibility of image buttons in the QuickLinks section.
 2025-04-08 15:57:13,354 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
 2025-04-08 15:57:13,537 - INFO - Closing WebDriver...
+2025-04-08 20:55:43,978 - INFO - Logger initialized successfully.
+2025-04-08 20:55:43,979 - INFO - Starting WebDriver...
+2025-04-08 20:55:45,695 - INFO - Navigating to the landing page.
+2025-04-08 20:55:46,988 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-08 20:55:46,989 - INFO - Verifying Landing page title.
+2025-04-08 20:55:46,996 - INFO - Landing page title verified: JPetStore Demo
+2025-04-08 20:55:46,997 - INFO - Verifying header text.
+2025-04-08 20:55:47,039 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-08 20:55:47,040 - INFO - Verifying link button "Enter the Store".
+2025-04-08 20:55:47,067 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-08 20:55:47,068 - INFO - Verifying copyright text.
+2025-04-08 20:55:47,092 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-08 20:55:47,093 - INFO - Navigating to the landing page.
+2025-04-08 20:55:47,111 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-08 20:55:47,112 - INFO - Clicking on "Enter the Store" link.
+2025-04-08 20:55:48,234 - INFO - Clicked on "Enter the Store" link.
+2025-04-08 20:55:48,236 - INFO - Verifying redirection to Catalog page.
+2025-04-08 20:55:48,241 - INFO - Redirected to Catalog page successfully.
+2025-04-08 20:55:48,241 - INFO - Closing WebDriver...
+2025-04-08 20:56:30,679 - INFO - Logger initialized successfully.
+2025-04-08 20:56:30,679 - INFO - Starting WebDriver...
+2025-04-08 20:56:32,080 - INFO - Navigating to the landing page.
+2025-04-08 20:56:33,141 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-08 20:56:33,142 - INFO - Verifying Landing page title.
+2025-04-08 20:56:33,149 - INFO - Landing page title verified: JPetStore Demo
+2025-04-08 20:56:33,152 - INFO - Verifying header text.
+2025-04-08 20:56:33,204 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-08 20:56:33,205 - INFO - Verifying link button "Enter the Store".
+2025-04-08 20:56:33,237 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-08 20:56:33,237 - INFO - Verifying copyright text.
+2025-04-08 20:56:33,264 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-08 20:56:33,268 - INFO - Navigating to the landing page.
+2025-04-08 20:56:33,287 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-08 20:56:33,291 - INFO - Clicking on "Enter the Store" link.
+2025-04-08 20:56:34,411 - INFO - Clicked on "Enter the Store" link.
+2025-04-08 20:56:34,413 - INFO - Verifying redirection to Catalog page.
+2025-04-08 20:56:34,420 - INFO - Redirected to Catalog page successfully.
+2025-04-08 20:56:34,420 - INFO - Closing WebDriver...
+2025-04-10 13:20:22,809 - INFO - Logger initialized successfully.
+2025-04-10 13:20:22,829 - INFO - Starting WebDriver...
+2025-04-10 13:20:27,602 - INFO - Navigating to the landing page.
+2025-04-10 13:20:28,733 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-10 13:20:28,734 - INFO - Verifying Landing page title.
+2025-04-10 13:20:28,741 - INFO - Landing page title verified: JPetStore Demo
+2025-04-10 13:20:28,766 - INFO - Verifying header text.
+2025-04-10 13:20:28,901 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-10 13:20:28,902 - INFO - Verifying link button "Enter the Store".
+2025-04-10 13:20:28,935 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-10 13:20:28,936 - INFO - Verifying copyright text.
+2025-04-10 13:20:28,966 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-10 13:20:28,968 - INFO - Navigating to the landing page.
+2025-04-10 13:20:28,993 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-10 13:20:28,995 - INFO - Clicking on "Enter the Store" link.
+2025-04-10 13:20:29,889 - INFO - Clicked on "Enter the Store" link.
+2025-04-10 13:20:29,891 - INFO - Verifying redirection to Catalog page.
+2025-04-10 13:20:29,899 - INFO - Redirected to Catalog page successfully.
+2025-04-10 13:20:29,903 - INFO - Closing WebDriver...
+2025-04-10 13:21:02,238 - INFO - Logger initialized successfully.
+2025-04-10 13:21:02,238 - INFO - Starting WebDriver...
+2025-04-10 13:21:03,824 - INFO - Navigating to the catalog page.
+2025-04-10 13:21:04,603 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-10 13:21:04,605 - INFO - Verifying Catalog page title.
+2025-04-10 13:21:05,600 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-10 13:21:05,603 - INFO - Navigating to the catalog page.
+2025-04-10 13:21:05,871 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-10 13:21:05,872 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-10 13:21:06,026 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-10 13:21:06,096 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-10 13:21:06,209 - INFO - Closing WebDriver...
+2025-04-24 15:17:06,477 - INFO - Logger initialized successfully.
+2025-04-24 15:17:06,494 - INFO - Starting WebDriver...
+2025-04-24 15:17:11,449 - INFO - Navigating to the landing page.
+2025-04-24 15:17:12,888 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-24 15:17:12,889 - INFO - Verifying Landing page title.
+2025-04-24 15:17:12,898 - INFO - Landing page title verified: JPetStore Demo
+2025-04-24 15:17:12,899 - INFO - Verifying header text.
+2025-04-24 15:17:13,014 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-24 15:17:13,015 - INFO - Verifying link button "Enter the Store".
+2025-04-24 15:17:13,041 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-24 15:17:13,042 - INFO - Verifying copyright text.
+2025-04-24 15:17:13,078 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-24 15:17:13,092 - INFO - Navigating to the landing page.
+2025-04-24 15:17:13,126 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-24 15:17:13,130 - INFO - Clicking on "Enter the Store" link.
+2025-04-24 15:17:13,953 - INFO - Clicked on "Enter the Store" link.
+2025-04-24 15:17:13,954 - INFO - Verifying redirection to Catalog page.
+2025-04-24 15:17:13,960 - INFO - Redirected to Catalog page successfully.
+2025-04-24 15:17:13,966 - INFO - Closing WebDriver...
+2025-04-24 15:17:33,636 - INFO - Logger initialized successfully.
+2025-04-24 15:17:33,636 - INFO - Starting WebDriver...
+2025-04-24 15:17:35,317 - INFO - Navigating to the catalog page.
+2025-04-24 15:17:36,484 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:17:36,485 - INFO - Verifying Catalog page title.
+2025-04-24 15:17:36,491 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:17:36,493 - INFO - Navigating to the catalog page.
+2025-04-24 15:17:36,738 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:17:36,739 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:17:36,905 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:17:36,982 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:17:37,102 - INFO - Closing WebDriver...
+2025-04-24 15:26:03,570 - INFO - Logger initialized successfully.
+2025-04-24 15:26:03,570 - INFO - Starting WebDriver...
+2025-04-24 15:26:05,409 - INFO - Navigating to the catalog page.
+2025-04-24 15:26:06,283 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:26:06,297 - INFO - Verifying Catalog page title.
+2025-04-24 15:26:06,762 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:26:06,768 - INFO - Navigating to the catalog page.
+2025-04-24 15:26:07,014 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:26:07,023 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:26:07,190 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:26:07,271 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:26:07,330 - INFO - Closing WebDriver...
+2025-04-24 15:28:28,068 - INFO - Logger initialized successfully.
+2025-04-24 15:28:28,069 - INFO - Starting WebDriver...
+2025-04-24 15:28:30,043 - INFO - Navigating to the catalog page.
+2025-04-24 15:28:30,738 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:28:30,741 - INFO - Verifying Catalog page title.
+2025-04-24 15:28:31,363 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:28:31,365 - INFO - Navigating to the catalog page.
+2025-04-24 15:28:31,611 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:28:31,613 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:28:31,813 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:28:31,892 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:28:31,953 - INFO - Closing WebDriver...
+2025-04-24 15:34:06,675 - INFO - Logger initialized successfully.
+2025-04-24 15:34:06,675 - INFO - Starting WebDriver...
+2025-04-24 15:34:08,362 - INFO - Navigating to the catalog page.
+2025-04-24 15:34:09,601 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:34:09,604 - INFO - Verifying Catalog page title.
+2025-04-24 15:34:09,645 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:34:09,649 - INFO - Navigating to the catalog page.
+2025-04-24 15:34:09,891 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:34:09,899 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:34:10,106 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:34:10,193 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:34:10,232 - INFO - Closing WebDriver...
+2025-04-24 15:37:56,034 - INFO - Logger initialized successfully.
+2025-04-24 15:37:56,036 - INFO - Starting WebDriver...
+2025-04-24 15:37:57,590 - INFO - Navigating to the catalog page.
+2025-04-24 15:37:58,768 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:37:58,771 - INFO - Verifying Catalog page title.
+2025-04-24 15:37:58,781 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:37:58,784 - INFO - Navigating to the catalog page.
+2025-04-24 15:37:59,029 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:37:59,031 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:37:59,190 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:37:59,259 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:37:59,300 - INFO - Closing WebDriver...
+2025-04-24 15:38:48,134 - INFO - Logger initialized successfully.
+2025-04-24 15:38:48,134 - INFO - Starting WebDriver...
+2025-04-24 15:38:49,658 - INFO - Navigating to the catalog page.
+2025-04-24 15:38:50,834 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:38:50,835 - INFO - Verifying Catalog page title.
+2025-04-24 15:38:50,851 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:38:50,856 - INFO - Navigating to the catalog page.
+2025-04-24 15:38:51,101 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:38:51,111 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:38:51,266 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:38:51,336 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:38:51,374 - INFO - Closing WebDriver...
+2025-04-24 15:39:12,224 - INFO - Logger initialized successfully.
+2025-04-24 15:39:12,224 - INFO - Starting WebDriver...
+2025-04-24 15:39:13,780 - INFO - Navigating to the catalog page.
+2025-04-24 15:39:14,963 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:39:14,964 - INFO - Verifying Catalog page title.
+2025-04-24 15:39:14,972 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:39:14,974 - INFO - Navigating to the catalog page.
+2025-04-24 15:39:15,220 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:39:15,221 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:39:15,397 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:39:15,464 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:39:15,506 - INFO - Closing WebDriver...
+2025-04-24 15:41:09,673 - INFO - Logger initialized successfully.
+2025-04-24 15:41:09,674 - INFO - Starting WebDriver...
+2025-04-24 15:41:11,247 - INFO - Navigating to the catalog page.
+2025-04-24 15:41:12,419 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:41:12,420 - INFO - Verifying Catalog page title.
+2025-04-24 15:41:12,431 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:41:12,434 - INFO - Navigating to the catalog page.
+2025-04-24 15:41:12,681 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:41:12,682 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:41:12,841 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:41:12,912 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:41:12,947 - INFO - Closing WebDriver...
+2025-04-24 15:41:43,760 - INFO - Logger initialized successfully.
+2025-04-24 15:41:43,760 - INFO - Starting WebDriver...
+2025-04-24 15:41:45,248 - INFO - Navigating to the catalog page.
+2025-04-24 15:41:46,420 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:41:46,425 - INFO - Verifying Catalog page title.
+2025-04-24 15:41:46,434 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:41:46,436 - INFO - Navigating to the catalog page.
+2025-04-24 15:41:46,738 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:41:46,740 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:41:46,892 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:41:46,962 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:41:47,005 - INFO - Closing WebDriver...
+2025-04-24 15:42:28,683 - INFO - Logger initialized successfully.
+2025-04-24 15:42:28,683 - INFO - Starting WebDriver...
+2025-04-24 15:42:30,109 - INFO - Navigating to the catalog page.
+2025-04-24 15:42:31,278 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:42:31,281 - INFO - Verifying Catalog page title.
+2025-04-24 15:42:31,293 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:42:31,295 - INFO - Navigating to the catalog page.
+2025-04-24 15:42:31,539 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:42:31,542 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:42:31,695 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:42:31,766 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:42:31,812 - INFO - Closing WebDriver...
+2025-04-24 15:44:04,245 - INFO - Logger initialized successfully.
+2025-04-24 15:44:04,245 - INFO - Starting WebDriver...
+2025-04-24 15:44:05,861 - INFO - Navigating to the catalog page.
+2025-04-24 15:44:07,057 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:44:07,063 - INFO - Verifying Catalog page title.
+2025-04-24 15:44:07,070 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:44:07,072 - INFO - Navigating to the catalog page.
+2025-04-24 15:44:07,316 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:44:07,318 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:44:07,472 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:44:07,543 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:44:07,565 - INFO - Closing WebDriver...
+2025-04-24 15:48:34,590 - INFO - Logger initialized successfully.
+2025-04-24 15:48:34,590 - INFO - Starting WebDriver...
+2025-04-24 15:48:36,256 - INFO - Navigating to the catalog page.
+2025-04-24 15:48:37,464 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:48:37,468 - INFO - Verifying Catalog page title.
+2025-04-24 15:48:37,477 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:48:37,479 - INFO - Navigating to the catalog page.
+2025-04-24 15:48:37,725 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:48:37,727 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:48:37,881 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:48:37,950 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:48:37,995 - INFO - Closing WebDriver...
+2025-04-24 15:49:27,081 - INFO - Logger initialized successfully.
+2025-04-24 15:49:27,082 - INFO - Starting WebDriver...
+2025-04-24 15:49:28,628 - INFO - Navigating to the catalog page.
+2025-04-24 15:49:29,851 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:49:29,855 - INFO - Verifying Catalog page title.
+2025-04-24 15:49:29,868 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:49:29,870 - INFO - Navigating to the catalog page.
+2025-04-24 15:49:30,119 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:49:30,121 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:49:30,271 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:49:30,338 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:49:30,378 - INFO - Closing WebDriver...
+2025-04-24 15:53:36,709 - INFO - Logger initialized successfully.
+2025-04-24 15:53:36,709 - INFO - Starting WebDriver...
+2025-04-24 15:53:38,276 - INFO - Navigating to the catalog page.
+2025-04-24 15:53:39,456 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:53:39,456 - INFO - Verifying Catalog page title.
+2025-04-24 15:53:39,466 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:53:39,468 - INFO - Navigating to the catalog page.
+2025-04-24 15:53:39,717 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:53:39,719 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:53:39,874 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:53:39,939 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:53:39,979 - INFO - Closing WebDriver...
+2025-04-24 15:54:43,959 - INFO - Logger initialized successfully.
+2025-04-24 15:54:43,959 - INFO - Starting WebDriver...
+2025-04-24 15:54:45,525 - INFO - Navigating to the catalog page.
+2025-04-24 15:54:46,736 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:54:46,736 - INFO - Verifying Catalog page title.
+2025-04-24 15:54:46,742 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:54:46,746 - INFO - Navigating to the catalog page.
+2025-04-24 15:54:46,990 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:54:46,992 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:54:47,152 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:54:47,224 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:54:47,245 - INFO - Closing WebDriver...
+2025-04-24 15:55:11,973 - INFO - Logger initialized successfully.
+2025-04-24 15:55:11,974 - INFO - Starting WebDriver...
+2025-04-24 15:55:13,459 - INFO - Navigating to the catalog page.
+2025-04-24 15:55:14,626 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:55:14,627 - INFO - Verifying Catalog page title.
+2025-04-24 15:55:14,639 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:55:14,641 - INFO - Navigating to the catalog page.
+2025-04-24 15:55:14,923 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:55:14,925 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:55:15,079 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:55:15,151 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:55:15,171 - INFO - Closing WebDriver...
+2025-04-24 15:57:18,809 - INFO - Logger initialized successfully.
+2025-04-24 15:57:18,809 - INFO - Starting WebDriver...
+2025-04-24 15:57:20,326 - INFO - Navigating to the catalog page.
+2025-04-24 15:57:21,024 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:57:21,025 - INFO - Verifying Catalog page title.
+2025-04-24 15:57:21,537 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 15:57:21,540 - INFO - Navigating to the catalog page.
+2025-04-24 15:57:21,792 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 15:57:21,793 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 15:57:21,955 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 15:57:22,026 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 15:57:22,072 - INFO - Closing WebDriver...
+2025-04-24 16:00:10,271 - INFO - Logger initialized successfully.
+2025-04-24 16:00:10,271 - INFO - Starting WebDriver...
+2025-04-24 16:00:11,694 - INFO - Navigating to the catalog page.
+2025-04-24 16:00:12,861 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:00:12,862 - INFO - Verifying Catalog page title.
+2025-04-24 16:00:12,875 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 16:00:12,877 - INFO - Navigating to the catalog page.
+2025-04-24 16:00:13,123 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:00:13,125 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 16:00:13,271 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 16:00:13,343 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 16:00:13,388 - INFO - Closing WebDriver...
+2025-04-24 16:24:46,575 - INFO - Logger initialized successfully.
+2025-04-24 16:24:46,575 - INFO - Starting WebDriver...
+2025-04-24 16:24:48,457 - INFO - Navigating to the catalog page.
+2025-04-24 16:24:49,741 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:24:49,742 - INFO - Verifying Catalog page title.
+2025-04-24 16:24:49,757 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 16:24:49,762 - INFO - Navigating to the catalog page.
+2025-04-24 16:24:50,006 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:24:50,007 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 16:24:50,178 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 16:24:50,254 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 16:24:50,296 - INFO - Closing WebDriver...
+2025-04-24 16:25:43,213 - INFO - Logger initialized successfully.
+2025-04-24 16:25:43,214 - INFO - Starting WebDriver...
+2025-04-24 16:25:44,764 - INFO - Navigating to the catalog page.
+2025-04-24 16:25:45,474 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:25:45,477 - INFO - Verifying Catalog page title.
+2025-04-24 16:25:45,940 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 16:25:45,945 - INFO - Navigating to the catalog page.
+2025-04-24 16:25:46,199 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:25:46,200 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 16:25:46,351 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 16:25:46,418 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 16:25:46,459 - INFO - Closing WebDriver...
+2025-04-24 16:36:34,920 - INFO - Logger initialized successfully.
+2025-04-24 16:36:34,920 - INFO - Starting WebDriver...
+2025-04-24 16:36:36,504 - INFO - Navigating to the catalog page.
+2025-04-24 16:36:37,737 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:36:37,738 - INFO - Verifying Catalog page title.
+2025-04-24 16:36:37,746 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 16:36:37,750 - INFO - Navigating to the catalog page.
+2025-04-24 16:36:37,993 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:36:37,995 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 16:36:38,150 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 16:36:38,218 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 16:36:38,258 - INFO - Closing WebDriver...
+2025-04-24 16:37:38,219 - INFO - Logger initialized successfully.
+2025-04-24 16:37:38,219 - INFO - Starting WebDriver...
+2025-04-24 16:37:39,772 - INFO - Navigating to the catalog page.
+2025-04-24 16:37:40,940 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:37:40,942 - INFO - Verifying Catalog page title.
+2025-04-24 16:37:40,950 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 16:37:40,952 - INFO - Navigating to the catalog page.
+2025-04-24 16:37:41,204 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:37:41,206 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 16:37:41,366 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 16:37:41,432 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 16:37:41,472 - INFO - Closing WebDriver...
+2025-04-24 16:44:14,404 - INFO - Logger initialized successfully.
+2025-04-24 16:44:14,404 - INFO - Starting WebDriver...
+2025-04-24 16:44:15,916 - INFO - Navigating to the catalog page.
+2025-04-24 16:44:17,128 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:44:17,128 - INFO - Verifying Catalog page title.
+2025-04-24 16:44:17,140 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 16:44:17,142 - INFO - Navigating to the catalog page.
+2025-04-24 16:44:17,384 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:44:17,389 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 16:44:17,542 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 16:44:17,611 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 16:44:17,652 - INFO - Closing WebDriver...
+2025-04-24 16:44:33,080 - INFO - Logger initialized successfully.
+2025-04-24 16:44:33,080 - INFO - Starting WebDriver...
+2025-04-24 16:44:34,613 - INFO - Navigating to the catalog page.
+2025-04-24 16:44:35,786 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:44:35,788 - INFO - Verifying Catalog page title.
+2025-04-24 16:44:35,796 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-24 16:44:35,798 - INFO - Navigating to the catalog page.
+2025-04-24 16:44:36,042 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-24 16:44:36,043 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-24 16:44:36,194 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-24 16:44:36,259 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-24 16:44:36,298 - INFO - Closing WebDriver...
+2025-04-25 09:40:02,599 - INFO - Logger initialized successfully.
+2025-04-25 09:40:02,620 - INFO - Starting WebDriver...
+2025-04-25 09:40:04,771 - INFO - Navigating to the catalog page.
+2025-04-25 09:40:05,939 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:40:05,939 - INFO - Verifying Catalog page title.
+2025-04-25 09:40:05,951 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 09:40:05,953 - INFO - Navigating to the catalog page.
+2025-04-25 09:40:06,198 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:40:06,204 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 09:40:06,444 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 09:40:06,517 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 09:40:06,654 - INFO - Closing WebDriver...
+2025-04-25 09:40:34,736 - INFO - Logger initialized successfully.
+2025-04-25 09:40:34,737 - INFO - Starting WebDriver...
+2025-04-25 09:40:36,245 - INFO - Navigating to the catalog page.
+2025-04-25 09:40:37,421 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:40:37,422 - INFO - Verifying Catalog page title.
+2025-04-25 09:40:37,432 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 09:40:37,438 - INFO - Navigating to the catalog page.
+2025-04-25 09:40:37,697 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:40:37,704 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 09:40:37,859 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 09:40:37,927 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 09:40:37,971 - INFO - Closing WebDriver...
+2025-04-25 09:53:00,649 - INFO - Logger initialized successfully.
+2025-04-25 09:53:00,649 - INFO - Starting WebDriver...
+2025-04-25 09:53:02,186 - INFO - Navigating to the catalog page.
+2025-04-25 09:53:03,562 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:53:03,563 - INFO - Verifying Catalog page title.
+2025-04-25 09:53:03,574 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 09:53:03,578 - INFO - Navigating to the catalog page.
+2025-04-25 09:53:03,836 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:53:03,848 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 09:53:03,997 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 09:53:04,069 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 09:53:04,120 - INFO - Closing WebDriver...
+2025-04-25 09:55:24,846 - INFO - Logger initialized successfully.
+2025-04-25 09:55:24,846 - INFO - Starting WebDriver...
+2025-04-25 09:55:26,359 - INFO - Navigating to the catalog page.
+2025-04-25 09:55:27,585 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:55:27,587 - INFO - Verifying Catalog page title.
+2025-04-25 09:55:27,598 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 09:55:27,600 - INFO - Navigating to the catalog page.
+2025-04-25 09:55:27,846 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:55:27,847 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 09:55:28,000 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 09:55:28,070 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 09:55:28,114 - INFO - Closing WebDriver...
+2025-04-25 09:57:37,718 - INFO - Logger initialized successfully.
+2025-04-25 09:57:37,718 - INFO - Starting WebDriver...
+2025-04-25 09:57:39,299 - INFO - Navigating to the catalog page.
+2025-04-25 09:57:40,464 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:57:40,465 - INFO - Verifying Catalog page title.
+2025-04-25 09:57:40,473 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 09:57:40,476 - INFO - Navigating to the catalog page.
+2025-04-25 09:57:40,719 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:57:40,721 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 09:57:40,994 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 09:57:41,062 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 09:57:41,104 - INFO - Closing WebDriver...
+2025-04-25 09:59:30,902 - INFO - Logger initialized successfully.
+2025-04-25 09:59:30,902 - INFO - Starting WebDriver...
+2025-04-25 09:59:32,447 - INFO - Navigating to the catalog page.
+2025-04-25 09:59:33,620 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:59:33,622 - INFO - Verifying Catalog page title.
+2025-04-25 09:59:33,670 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 09:59:33,673 - INFO - Navigating to the catalog page.
+2025-04-25 09:59:33,919 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 09:59:33,921 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 09:59:34,077 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 09:59:34,146 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 09:59:34,188 - INFO - Closing WebDriver...
+2025-04-25 10:04:41,623 - INFO - Logger initialized successfully.
+2025-04-25 10:04:41,623 - INFO - Starting WebDriver...
+2025-04-25 10:04:43,209 - INFO - Navigating to the catalog page.
+2025-04-25 10:04:43,936 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:04:43,938 - INFO - Verifying Catalog page title.
+2025-04-25 10:04:44,401 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:04:44,406 - INFO - Navigating to the catalog page.
+2025-04-25 10:04:44,655 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:04:44,656 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 10:04:44,806 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 10:04:44,874 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 10:04:44,920 - INFO - Closing WebDriver...
+2025-04-25 10:15:15,723 - INFO - Logger initialized successfully.
+2025-04-25 10:15:15,724 - INFO - Starting WebDriver...
+2025-04-25 10:15:17,337 - INFO - Navigating to the catalog page.
+2025-04-25 10:15:18,809 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:15:18,810 - INFO - Verifying Catalog page title.
+2025-04-25 10:15:18,817 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:15:18,820 - INFO - Navigating to the catalog page.
+2025-04-25 10:15:19,063 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:15:19,064 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 10:15:19,220 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 10:15:19,290 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 10:15:19,424 - INFO - Closing WebDriver...
+2025-04-25 10:16:15,118 - INFO - Logger initialized successfully.
+2025-04-25 10:16:15,118 - INFO - Starting WebDriver...
+2025-04-25 10:16:16,695 - INFO - Navigating to the catalog page.
+2025-04-25 10:16:17,862 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:16:17,862 - INFO - Verifying Catalog page title.
+2025-04-25 10:16:17,877 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:16:17,880 - INFO - Navigating to the catalog page.
+2025-04-25 10:16:18,125 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:16:18,126 - INFO - Checking visibility and text of header elements on the Catalog Page.
+2025-04-25 10:16:18,280 - INFO - Checking visibility of image buttons in the QuickLinks section.
+2025-04-25 10:16:18,352 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 10:16:18,487 - INFO - Closing WebDriver...
+2025-04-25 10:25:29,224 - INFO - Logger initialized successfully.
+2025-04-25 10:25:29,225 - INFO - Starting WebDriver...
+2025-04-25 10:25:30,761 - INFO - Navigating to the catalog page.
+2025-04-25 10:25:31,989 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:25:31,993 - INFO - Verifying Catalog page title.
+2025-04-25 10:25:32,000 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:25:32,003 - INFO - Navigating to the catalog page.
+2025-04-25 10:25:32,249 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:25:32,250 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 10:25:32,251 - INFO - Closing WebDriver...
+2025-04-25 10:26:52,111 - INFO - Logger initialized successfully.
+2025-04-25 10:26:52,112 - INFO - Starting WebDriver...
+2025-04-25 10:26:53,758 - INFO - Navigating to the catalog page.
+2025-04-25 10:26:54,924 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:26:54,926 - INFO - Verifying Catalog page title.
+2025-04-25 10:26:54,933 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:26:54,935 - INFO - Navigating to the catalog page.
+2025-04-25 10:26:55,183 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:26:55,184 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 10:26:55,185 - INFO - Closing WebDriver...
+2025-04-25 10:27:23,022 - INFO - Logger initialized successfully.
+2025-04-25 10:27:23,022 - INFO - Starting WebDriver...
+2025-04-25 10:27:24,501 - INFO - Navigating to the catalog page.
+2025-04-25 10:27:25,669 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:27:25,670 - INFO - Verifying Catalog page title.
+2025-04-25 10:27:25,687 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:27:25,689 - INFO - Navigating to the catalog page.
+2025-04-25 10:27:25,933 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:27:25,934 - INFO - Checking visibility of icon buttons and subtexts in the SideBarContent section.
+2025-04-25 10:27:26,018 - INFO - Closing WebDriver...
+2025-04-25 10:33:04,861 - INFO - Logger initialized successfully.
+2025-04-25 10:33:04,862 - INFO - Starting WebDriver...
+2025-04-25 10:33:06,448 - INFO - Navigating to the catalog page.
+2025-04-25 10:33:07,681 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:33:07,682 - INFO - Verifying Catalog page title.
+2025-04-25 10:33:07,693 - INFO - Navigating to the catalog page.
+2025-04-25 10:33:07,935 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:33:07,936 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 10:33:08,022 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 10:33:08,022 - INFO - Closing WebDriver...
+2025-04-25 10:35:12,812 - INFO - Logger initialized successfully.
+2025-04-25 10:35:12,812 - INFO - Starting WebDriver...
+2025-04-25 10:35:14,377 - INFO - Navigating to the catalog page.
+2025-04-25 10:35:15,534 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:35:15,534 - INFO - Verifying Catalog page title.
+2025-04-25 10:35:15,551 - INFO - Navigating to the catalog page.
+2025-04-25 10:35:15,797 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:35:15,799 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 10:35:15,880 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 10:35:15,880 - INFO - Closing WebDriver...
+2025-04-25 10:36:57,034 - INFO - Logger initialized successfully.
+2025-04-25 10:36:57,034 - INFO - Starting WebDriver...
+2025-04-25 10:36:58,654 - INFO - Navigating to the catalog page.
+2025-04-25 10:36:59,814 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:36:59,816 - INFO - Verifying Catalog page title.
+2025-04-25 10:36:59,825 - INFO - Navigating to the catalog page.
+2025-04-25 10:37:00,070 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:37:00,072 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 10:37:00,156 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 10:37:00,157 - INFO - Closing WebDriver...
+2025-04-25 10:39:13,002 - INFO - Logger initialized successfully.
+2025-04-25 10:39:13,002 - INFO - Starting WebDriver...
+2025-04-25 10:39:14,519 - INFO - Navigating to the catalog page.
+2025-04-25 10:39:15,833 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:39:15,834 - INFO - Verifying Catalog page title.
+2025-04-25 10:39:15,843 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:39:15,847 - INFO - Navigating to the catalog page.
+2025-04-25 10:39:16,090 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:39:16,092 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 10:39:16,174 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 10:39:16,174 - INFO - Closing WebDriver...
+2025-04-25 10:40:05,742 - INFO - Logger initialized successfully.
+2025-04-25 10:40:05,743 - INFO - Starting WebDriver...
+2025-04-25 10:40:07,304 - INFO - Navigating to the catalog page.
+2025-04-25 10:40:08,469 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:40:08,470 - INFO - Verifying Catalog page title.
+2025-04-25 10:40:08,485 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 10:40:08,488 - INFO - Navigating to the catalog page.
+2025-04-25 10:40:08,734 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 10:40:08,735 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 10:40:08,818 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 10:40:08,819 - INFO - Closing WebDriver...
+2025-04-25 11:02:16,350 - INFO - Logger initialized successfully.
+2025-04-25 11:02:16,350 - INFO - Starting WebDriver...
+2025-04-25 11:02:17,930 - INFO - Navigating to the catalog page.
+2025-04-25 11:02:19,165 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:02:19,166 - INFO - Verifying Catalog page title.
+2025-04-25 11:02:19,178 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:02:19,180 - INFO - Navigating to the catalog page.
+2025-04-25 11:02:19,428 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:02:19,430 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:02:19,514 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:02:19,515 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:02:19,516 - INFO - Closing WebDriver...
+2025-04-25 11:03:46,214 - INFO - Logger initialized successfully.
+2025-04-25 11:03:46,215 - INFO - Starting WebDriver...
+2025-04-25 11:03:47,762 - INFO - Navigating to the catalog page.
+2025-04-25 11:03:48,923 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:03:48,927 - INFO - Verifying Catalog page title.
+2025-04-25 11:03:48,934 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:03:48,936 - INFO - Navigating to the catalog page.
+2025-04-25 11:03:49,182 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:03:49,184 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:03:49,266 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:03:49,267 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:03:49,285 - INFO - Closing WebDriver...
+2025-04-25 11:16:09,923 - INFO - Logger initialized successfully.
+2025-04-25 11:16:09,924 - INFO - Starting WebDriver...
+2025-04-25 11:16:11,483 - INFO - Navigating to the catalog page.
+2025-04-25 11:16:12,937 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:16:12,937 - INFO - Verifying Catalog page title.
+2025-04-25 11:16:12,944 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:16:12,946 - INFO - Navigating to the catalog page.
+2025-04-25 11:16:13,190 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:16:13,191 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:16:13,281 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:16:13,282 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:16:13,301 - INFO - Navigating to the catalog page.
+2025-04-25 11:16:13,544 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:16:13,545 - INFO - Clicking the JPetStore Logo Button..
+2025-04-25 11:16:13,634 - INFO - Verifying redirection to Catalog page.
+2025-04-25 11:16:13,638 - INFO - Redirected to Catalog page successfully.
+2025-04-25 11:16:13,638 - INFO - Closing WebDriver...
+2025-04-25 11:18:01,386 - INFO - Logger initialized successfully.
+2025-04-25 11:18:01,387 - INFO - Starting WebDriver...
+2025-04-25 11:18:02,973 - INFO - Navigating to the catalog page.
+2025-04-25 11:18:04,369 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:18:04,370 - INFO - Verifying Catalog page title.
+2025-04-25 11:18:04,376 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:18:04,378 - INFO - Navigating to the catalog page.
+2025-04-25 11:18:04,624 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:18:04,625 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:18:04,707 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:18:04,708 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:18:04,728 - INFO - Navigating to the catalog page.
+2025-04-25 11:18:04,971 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:18:04,972 - INFO - Clicking the JPetStore Logo Button..
+2025-04-25 11:18:05,067 - INFO - Closing WebDriver...
+2025-04-25 11:18:52,969 - INFO - Logger initialized successfully.
+2025-04-25 11:18:52,969 - INFO - Starting WebDriver...
+2025-04-25 11:18:54,479 - INFO - Navigating to the catalog page.
+2025-04-25 11:18:55,655 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:18:55,656 - INFO - Verifying Catalog page title.
+2025-04-25 11:18:55,666 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:18:55,668 - INFO - Navigating to the catalog page.
+2025-04-25 11:18:55,912 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:18:55,913 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:18:55,999 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:18:56,000 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:18:56,020 - INFO - Navigating to the catalog page.
+2025-04-25 11:18:56,262 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:18:56,263 - INFO - Clicking the JPetStore Logo Button..
+2025-04-25 11:18:56,360 - INFO - Closing WebDriver...
+2025-04-25 11:23:34,455 - INFO - Logger initialized successfully.
+2025-04-25 11:23:34,455 - INFO - Starting WebDriver...
+2025-04-25 11:23:35,958 - INFO - Navigating to the catalog page.
+2025-04-25 11:23:37,575 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:23:37,576 - INFO - Verifying Catalog page title.
+2025-04-25 11:23:37,586 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:23:37,588 - INFO - Navigating to the catalog page.
+2025-04-25 11:23:37,837 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:23:37,839 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:23:37,924 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:23:37,925 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:23:37,947 - INFO - Navigating to the catalog page.
+2025-04-25 11:23:38,193 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:23:38,193 - INFO - Clicking the JPetStore Logo Button..
+2025-04-25 11:23:38,290 - INFO - Navigating to the catalog page.
+2025-04-25 11:23:38,538 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:23:38,539 - INFO - Clicking the Cart Icon Button..
+2025-04-25 11:23:38,905 - INFO - Closing WebDriver...
+2025-04-25 11:32:02,100 - INFO - Logger initialized successfully.
+2025-04-25 11:32:02,100 - INFO - Starting WebDriver...
+2025-04-25 11:32:03,710 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:04,900 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:04,901 - INFO - Verifying Catalog page title.
+2025-04-25 11:32:04,913 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:32:04,915 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:05,161 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:05,163 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:32:05,249 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:32:05,250 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:32:05,270 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:05,513 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:05,513 - INFO - Clicking the JPetStore logo button..
+2025-04-25 11:32:05,611 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:05,853 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:05,854 - INFO - Clicking the Cart icon button..
+2025-04-25 11:32:06,220 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:06,479 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:06,484 - INFO - Closing WebDriver...
+2025-04-25 11:32:33,613 - INFO - Logger initialized successfully.
+2025-04-25 11:32:33,614 - INFO - Starting WebDriver...
+2025-04-25 11:32:35,043 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:36,419 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:36,419 - INFO - Verifying Catalog page title.
+2025-04-25 11:32:36,427 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:32:36,429 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:36,678 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:36,679 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:32:36,765 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:32:36,766 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:32:36,786 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:37,030 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:37,031 - INFO - Clicking the JPetStore logo button..
+2025-04-25 11:32:37,128 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:37,370 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:37,371 - INFO - Clicking the Cart icon button..
+2025-04-25 11:32:37,741 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:37,997 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:37,999 - INFO - Clicking the Sign In link button..
+2025-04-25 11:32:38,349 - INFO - Closing WebDriver...
+2025-04-25 11:32:54,164 - INFO - Logger initialized successfully.
+2025-04-25 11:32:54,165 - INFO - Starting WebDriver...
+2025-04-25 11:32:55,567 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:56,744 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:56,744 - INFO - Verifying Catalog page title.
+2025-04-25 11:32:56,751 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:32:56,752 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:56,999 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:57,000 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:32:57,135 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:32:57,137 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:32:57,157 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:57,401 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:57,402 - INFO - Clicking the JPetStore logo button..
+2025-04-25 11:32:57,499 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:57,744 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:57,745 - INFO - Clicking the Cart icon button..
+2025-04-25 11:32:58,110 - INFO - Navigating to the catalog page.
+2025-04-25 11:32:58,366 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:32:58,367 - INFO - Clicking the Sign In link button..
+2025-04-25 11:32:58,722 - INFO - Closing WebDriver...
+2025-04-25 11:34:58,101 - INFO - Logger initialized successfully.
+2025-04-25 11:34:58,101 - INFO - Starting WebDriver...
+2025-04-25 11:34:59,604 - INFO - Navigating to the catalog page.
+2025-04-25 11:35:00,768 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:35:00,769 - INFO - Verifying Catalog page title.
+2025-04-25 11:35:00,782 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:35:00,784 - INFO - Navigating to the catalog page.
+2025-04-25 11:35:01,028 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:35:01,029 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:35:01,117 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:35:01,118 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:35:01,139 - INFO - Navigating to the catalog page.
+2025-04-25 11:35:01,382 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:35:01,382 - INFO - Clicking the JPetStore logo button..
+2025-04-25 11:35:01,478 - INFO - Navigating to the catalog page.
+2025-04-25 11:35:01,718 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:35:01,719 - INFO - Clicking the Cart icon button..
+2025-04-25 11:35:02,083 - INFO - Navigating to the catalog page.
+2025-04-25 11:35:02,339 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:35:02,342 - INFO - Clicking the Sign In link button..
+2025-04-25 11:35:02,719 - INFO - Closing WebDriver...
+2025-04-25 11:35:59,817 - INFO - Logger initialized successfully.
+2025-04-25 11:35:59,818 - INFO - Starting WebDriver...
+2025-04-25 11:36:01,299 - INFO - Navigating to the catalog page.
+2025-04-25 11:36:02,455 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:36:02,457 - INFO - Verifying Catalog page title.
+2025-04-25 11:36:02,470 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:36:02,473 - INFO - Navigating to the catalog page.
+2025-04-25 11:36:02,726 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:36:02,728 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:36:02,811 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:36:02,812 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:36:02,832 - INFO - Navigating to the catalog page.
+2025-04-25 11:36:03,078 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:36:03,079 - INFO - Clicking the JPetStore logo button..
+2025-04-25 11:36:03,176 - INFO - Navigating to the catalog page.
+2025-04-25 11:36:03,420 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:36:03,421 - INFO - Clicking the Cart icon button..
+2025-04-25 11:36:03,792 - INFO - Navigating to the catalog page.
+2025-04-25 11:36:04,052 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:36:04,053 - INFO - Clicking the Sign In link button..
+2025-04-25 11:36:04,404 - INFO - Closing WebDriver...
+2025-04-25 11:42:55,337 - INFO - Logger initialized successfully.
+2025-04-25 11:42:55,337 - INFO - Starting WebDriver...
+2025-04-25 11:42:56,887 - INFO - Navigating to the catalog page.
+2025-04-25 11:42:58,051 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:42:58,052 - INFO - Verifying Catalog page title.
+2025-04-25 11:42:58,062 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:42:58,065 - INFO - Navigating to the catalog page.
+2025-04-25 11:42:58,308 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:42:58,312 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:42:58,397 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:42:58,398 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:42:58,418 - INFO - Navigating to the catalog page.
+2025-04-25 11:42:58,665 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:42:58,666 - INFO - Clicking the JPetStore logo button..
+2025-04-25 11:42:58,763 - INFO - Navigating to the catalog page.
+2025-04-25 11:42:59,005 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:42:59,006 - INFO - Clicking the Cart icon button..
+2025-04-25 11:42:59,368 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 11:42:59,370 - INFO - Navigating to the catalog page.
+2025-04-25 11:42:59,625 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:42:59,627 - INFO - Clicking the Sign In link button..
+2025-04-25 11:42:59,979 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 11:42:59,980 - INFO - Navigating to the catalog page.
+2025-04-25 11:43:00,242 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:43:00,248 - INFO - Clicking the Help link button..
+2025-04-25 11:43:00,594 - INFO - Closing WebDriver...
+2025-04-25 11:44:27,014 - INFO - Logger initialized successfully.
+2025-04-25 11:44:27,014 - INFO - Starting WebDriver...
+2025-04-25 11:44:28,468 - INFO - Navigating to the catalog page.
+2025-04-25 11:44:29,876 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:44:29,878 - INFO - Verifying Catalog page title.
+2025-04-25 11:44:29,890 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 11:44:29,892 - INFO - Navigating to the catalog page.
+2025-04-25 11:44:30,139 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:44:30,140 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 11:44:30,228 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 11:44:30,229 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 11:44:30,249 - INFO - Navigating to the catalog page.
+2025-04-25 11:44:30,490 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:44:30,491 - INFO - Clicking the JPetStore logo button..
+2025-04-25 11:44:30,585 - INFO - Navigating to the catalog page.
+2025-04-25 11:44:30,830 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:44:30,832 - INFO - Clicking the Cart icon button..
+2025-04-25 11:44:31,265 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 11:44:31,267 - INFO - Navigating to the catalog page.
+2025-04-25 11:44:31,523 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:44:31,524 - INFO - Clicking the Sign In link button..
+2025-04-25 11:44:31,879 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 11:44:31,883 - INFO - Navigating to the catalog page.
+2025-04-25 11:44:32,146 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 11:44:32,148 - INFO - Clicking the Help link button..
+2025-04-25 11:44:32,506 - INFO - Landed on the page: https://petstore.octoperf.com/help.html
+2025-04-25 11:44:32,508 - INFO - Closing WebDriver...
+2025-04-25 12:17:07,469 - INFO - Logger initialized successfully.
+2025-04-25 12:17:07,469 - INFO - Starting WebDriver...
+2025-04-25 12:17:08,952 - INFO - Navigating to the catalog page.
+2025-04-25 12:17:10,119 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 12:17:10,120 - INFO - Verifying Catalog page title.
+2025-04-25 12:17:10,128 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 12:17:10,130 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 12:17:10,212 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 12:17:10,213 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 12:17:10,233 - INFO - Navigating to the catalog page.
+2025-04-25 12:17:10,476 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 12:17:10,479 - INFO - Clicking the JPetStore logo button..
+2025-04-25 12:17:10,577 - INFO - Navigating to the catalog page.
+2025-04-25 12:17:10,820 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 12:17:10,821 - INFO - Clicking the Cart icon button..
+2025-04-25 12:17:11,188 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 12:17:11,191 - INFO - Navigating to the catalog page.
+2025-04-25 12:17:11,447 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 12:17:11,452 - INFO - Clicking the Sign In link button..
+2025-04-25 12:17:11,805 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 12:17:11,807 - INFO - Navigating to the catalog page.
+2025-04-25 12:17:12,064 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 12:17:12,065 - INFO - Clicking the Help link button..
+2025-04-25 12:17:12,421 - INFO - Landed on the page: https://petstore.octoperf.com/help.html
+2025-04-25 12:17:12,425 - INFO - Navigating to the catalog page.
+2025-04-25 12:17:12,696 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 12:17:12,699 - INFO - Clicking the Fish image button in the Quicklinks..
+2025-04-25 12:17:13,036 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 12:17:13,037 - INFO - Closing WebDriver...
+2025-04-25 13:23:50,569 - INFO - Logger initialized successfully.
+2025-04-25 13:23:50,569 - INFO - Starting WebDriver...
+2025-04-25 13:23:52,418 - INFO - Navigating to the catalog page.
+2025-04-25 13:23:53,670 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:23:53,671 - INFO - Verifying Catalog page title.
+2025-04-25 13:23:53,698 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 13:23:53,705 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 13:23:53,784 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 13:23:53,785 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 13:23:53,809 - INFO - Navigating to the catalog page.
+2025-04-25 13:23:54,054 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:23:54,055 - INFO - Clicking the JPetStore logo button..
+2025-04-25 13:23:54,154 - INFO - Navigating to the catalog page.
+2025-04-25 13:23:54,403 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:23:54,405 - INFO - Clicking the Cart icon button..
+2025-04-25 13:23:54,771 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 13:23:54,773 - INFO - Navigating to the catalog page.
+2025-04-25 13:23:55,023 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:23:55,040 - INFO - Clicking the Sign In link button..
+2025-04-25 13:23:55,400 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 13:23:55,402 - INFO - Navigating to the catalog page.
+2025-04-25 13:23:55,661 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:23:55,664 - INFO - Clicking the Help link button..
+2025-04-25 13:23:56,024 - INFO - Landed on the page: https://petstore.octoperf.com/help.html
+2025-04-25 13:23:56,031 - INFO - Navigating to the catalog page.
+2025-04-25 13:23:56,290 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:23:56,291 - INFO - Clicking the Fish image button in the Quicklinks..
+2025-04-25 13:23:56,656 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:23:56,658 - INFO - Navigating to the catalog page.
+2025-04-25 13:23:56,916 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:23:56,920 - INFO - Clicking the Dogs image button in the Quicklinks..
+2025-04-25 13:23:57,476 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:23:57,480 - INFO - Closing WebDriver...
+2025-04-25 13:28:09,453 - INFO - Logger initialized successfully.
+2025-04-25 13:28:09,454 - INFO - Starting WebDriver...
+2025-04-25 13:28:11,099 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:12,289 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:12,292 - INFO - Verifying Catalog page title.
+2025-04-25 13:28:12,305 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 13:28:12,306 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 13:28:12,397 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 13:28:12,398 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 13:28:12,418 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:12,668 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:12,669 - INFO - Clicking the JPetStore logo button..
+2025-04-25 13:28:12,765 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:13,009 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:13,010 - INFO - Clicking the Cart icon button..
+2025-04-25 13:28:13,384 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 13:28:13,385 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:13,642 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:13,643 - INFO - Clicking the Sign In link button..
+2025-04-25 13:28:14,013 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 13:28:14,015 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:14,427 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:14,428 - INFO - Clicking the Help link button..
+2025-04-25 13:28:14,806 - INFO - Landed on the page: https://petstore.octoperf.com/help.html
+2025-04-25 13:28:14,809 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:15,096 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:15,100 - INFO - Clicking the Fish image button in the Quicklinks..
+2025-04-25 13:28:15,441 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:28:15,443 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:15,901 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:15,938 - INFO - Clicking the Dogs image button in the Quicklinks..
+2025-04-25 13:28:16,312 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:28:16,316 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:16,579 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:16,581 - INFO - Clicking the Reptiles image button in the Quicklinks..
+2025-04-25 13:28:16,949 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES
+2025-04-25 13:28:16,958 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:17,233 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:17,234 - INFO - Clicking the Cats image button in the Quicklinks..
+2025-04-25 13:28:17,569 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS
+2025-04-25 13:28:17,570 - INFO - Navigating to the catalog page.
+2025-04-25 13:28:17,840 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:28:17,841 - INFO - Clicking the Birds image button in the Quicklinks..
+2025-04-25 13:28:18,192 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS
+2025-04-25 13:28:18,193 - INFO - Closing WebDriver...
+2025-04-25 13:36:51,417 - INFO - Logger initialized successfully.
+2025-04-25 13:36:51,417 - INFO - Starting WebDriver...
+2025-04-25 13:36:53,059 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:53,810 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:53,813 - INFO - Verifying Catalog page title.
+2025-04-25 13:36:54,275 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 13:36:54,278 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 13:36:54,357 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 13:36:54,358 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 13:36:54,379 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:54,624 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:54,626 - INFO - Clicking the JPetStore logo button..
+2025-04-25 13:36:54,723 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:54,966 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:54,967 - INFO - Clicking the Cart icon button..
+2025-04-25 13:36:55,326 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 13:36:55,329 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:55,580 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:55,581 - INFO - Clicking the Sign In link button..
+2025-04-25 13:36:55,948 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 13:36:55,950 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:56,241 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:56,244 - INFO - Clicking the Help link button..
+2025-04-25 13:36:56,606 - INFO - Landed on the page: https://petstore.octoperf.com/help.html
+2025-04-25 13:36:56,608 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:56,868 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:56,875 - INFO - Clicking the Fish image button in the Quicklinks..
+2025-04-25 13:36:57,230 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:36:57,235 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:57,603 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:57,607 - INFO - Clicking the Dogs image button in the Quicklinks..
+2025-04-25 13:36:58,280 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:36:58,283 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:58,518 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:58,528 - INFO - Clicking the Reptiles image button in the Quicklinks..
+2025-04-25 13:36:58,890 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES
+2025-04-25 13:36:58,892 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:59,154 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:59,158 - INFO - Clicking the Cats image button in the Quicklinks..
+2025-04-25 13:36:59,514 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS
+2025-04-25 13:36:59,520 - INFO - Navigating to the catalog page.
+2025-04-25 13:36:59,771 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:36:59,773 - INFO - Clicking the Birds image button in the Quicklinks..
+2025-04-25 13:37:00,108 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS
+2025-04-25 13:37:00,109 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:00,370 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:00,373 - INFO - Clicking the Fish icon button in the SideBarContent..
+2025-04-25 13:37:00,728 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:37:00,730 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:00,970 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:00,988 - INFO - Clicking the Dogs icon button in the SideBarContent..
+2025-04-25 13:37:01,339 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:37:01,340 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:01,607 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:01,608 - INFO - Clicking the Reptiles icon button in the SideBarContent..
+2025-04-25 13:37:01,946 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES
+2025-04-25 13:37:01,948 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:02,204 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:02,206 - INFO - Clicking the Cats icon button in the SideBarContent..
+2025-04-25 13:37:02,558 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS
+2025-04-25 13:37:02,560 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:02,819 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:02,822 - INFO - Clicking the Birds icon button in the SideBarContent..
+2025-04-25 13:37:03,174 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS
+2025-04-25 13:37:03,174 - INFO - Closing WebDriver...
+2025-04-25 13:37:23,788 - INFO - Logger initialized successfully.
+2025-04-25 13:37:23,788 - INFO - Starting WebDriver...
+2025-04-25 13:37:25,314 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:26,481 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:26,482 - INFO - Verifying Catalog page title.
+2025-04-25 13:37:26,496 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 13:37:26,498 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 13:37:26,583 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 13:37:26,585 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 13:37:26,605 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:26,854 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:26,855 - INFO - Clicking the JPetStore logo button..
+2025-04-25 13:37:26,944 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:27,189 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:27,189 - INFO - Clicking the Cart icon button..
+2025-04-25 13:37:27,548 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 13:37:27,551 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:27,846 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:27,847 - INFO - Clicking the Sign In link button..
+2025-04-25 13:37:28,204 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 13:37:28,206 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:28,488 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:28,491 - INFO - Clicking the Help link button..
+2025-04-25 13:37:28,848 - INFO - Landed on the page: https://petstore.octoperf.com/help.html
+2025-04-25 13:37:28,855 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:29,123 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:29,125 - INFO - Clicking the Fish image button in the Quicklinks..
+2025-04-25 13:37:29,464 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:37:29,468 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:29,728 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:29,734 - INFO - Clicking the Dogs image button in the Quicklinks..
+2025-04-25 13:37:30,085 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:37:30,087 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:30,348 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:30,355 - INFO - Clicking the Reptiles image button in the Quicklinks..
+2025-04-25 13:37:30,692 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES
+2025-04-25 13:37:30,694 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:30,954 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:30,958 - INFO - Clicking the Cats image button in the Quicklinks..
+2025-04-25 13:37:31,308 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS
+2025-04-25 13:37:31,310 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:31,569 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:31,570 - INFO - Clicking the Birds image button in the Quicklinks..
+2025-04-25 13:37:31,923 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS
+2025-04-25 13:37:31,925 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:32,198 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:32,199 - INFO - Clicking the Fish icon button in the SideBarContent..
+2025-04-25 13:37:32,542 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:37:32,544 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:32,803 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:32,811 - INFO - Clicking the Dogs icon button in the SideBarContent..
+2025-04-25 13:37:33,162 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:37:33,164 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:33,421 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:33,423 - INFO - Clicking the Reptiles icon button in the SideBarContent..
+2025-04-25 13:37:33,772 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES
+2025-04-25 13:37:33,773 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:34,041 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:34,042 - INFO - Clicking the Cats icon button in the SideBarContent..
+2025-04-25 13:37:34,395 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS
+2025-04-25 13:37:34,397 - INFO - Navigating to the catalog page.
+2025-04-25 13:37:34,655 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:37:34,656 - INFO - Clicking the Birds icon button in the SideBarContent..
+2025-04-25 13:37:35,013 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS
+2025-04-25 13:37:35,021 - INFO - Navigating to the landing page.
+2025-04-25 13:37:35,280 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-25 13:37:35,281 - INFO - Verifying Landing page title.
+2025-04-25 13:37:35,296 - INFO - Landing page title verified: JPetStore Demo
+2025-04-25 13:37:35,297 - INFO - Verifying header text.
+2025-04-25 13:37:35,333 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-25 13:37:35,334 - INFO - Verifying link button "Enter the Store".
+2025-04-25 13:37:35,360 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-25 13:37:35,361 - INFO - Verifying copyright text.
+2025-04-25 13:37:35,386 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-25 13:37:35,388 - INFO - Navigating to the landing page.
+2025-04-25 13:37:35,406 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-25 13:37:35,408 - INFO - Clicking on "Enter the Store" link.
+2025-04-25 13:37:35,778 - INFO - Clicked on "Enter the Store" link.
+2025-04-25 13:37:35,787 - INFO - Verifying redirection to Catalog page.
+2025-04-25 13:37:35,861 - INFO - Redirected to Catalog page successfully.
+2025-04-25 13:37:35,868 - INFO - Closing WebDriver...
+2025-04-25 13:43:15,442 - INFO - Logger initialized successfully.
+2025-04-25 13:43:15,442 - INFO - Starting WebDriver...
+2025-04-25 13:43:18,232 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:18,966 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:18,968 - INFO - Verifying Catalog page title.
+2025-04-25 13:43:19,503 - INFO - Catalog page title verified: JPetStore Demo
+2025-04-25 13:43:19,505 - INFO - Checking visibility of subtexts in the SideBarContent section.
+2025-04-25 13:43:19,593 - INFO - Checking visibility of CTA message in the Separator section.
+2025-04-25 13:43:19,593 - INFO - Checking visibility of texts in the Footer section.
+2025-04-25 13:43:19,619 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:20,309 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:20,311 - INFO - Clicking the JPetStore logo button..
+2025-04-25 13:43:20,415 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:20,662 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:20,668 - INFO - Clicking the Cart icon button..
+2025-04-25 13:43:21,136 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Cart.action?viewCart=
+2025-04-25 13:43:21,140 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:21,396 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:21,398 - INFO - Clicking the Sign In link button..
+2025-04-25 13:43:23,097 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Account.action?signonForm=
+2025-04-25 13:43:23,102 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:23,437 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:23,441 - INFO - Clicking the Help link button..
+2025-04-25 13:43:24,190 - INFO - Landed on the page: https://petstore.octoperf.com/help.html
+2025-04-25 13:43:24,192 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:24,843 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:24,844 - INFO - Clicking the Fish image button in the Quicklinks..
+2025-04-25 13:43:25,293 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:43:25,295 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:25,603 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:25,607 - INFO - Clicking the Dogs image button in the Quicklinks..
+2025-04-25 13:43:25,949 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:43:25,951 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:26,416 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:26,417 - INFO - Clicking the Reptiles image button in the Quicklinks..
+2025-04-25 13:43:26,765 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES
+2025-04-25 13:43:26,768 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:27,304 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:27,305 - INFO - Clicking the Cats image button in the Quicklinks..
+2025-04-25 13:43:27,650 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS
+2025-04-25 13:43:27,653 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:27,993 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:27,998 - INFO - Clicking the Birds image button in the Quicklinks..
+2025-04-25 13:43:28,348 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS
+2025-04-25 13:43:28,350 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:28,660 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:28,664 - INFO - Clicking the Fish icon button in the SideBarContent..
+2025-04-25 13:43:29,016 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH
+2025-04-25 13:43:29,018 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:29,278 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:29,282 - INFO - Clicking the Dogs icon button in the SideBarContent..
+2025-04-25 13:43:29,616 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS
+2025-04-25 13:43:29,617 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:29,858 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:29,875 - INFO - Clicking the Reptiles icon button in the SideBarContent..
+2025-04-25 13:43:30,233 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES
+2025-04-25 13:43:30,234 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:30,490 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:30,490 - INFO - Clicking the Cats icon button in the SideBarContent..
+2025-04-25 13:43:30,829 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS
+2025-04-25 13:43:30,831 - INFO - Navigating to the catalog page.
+2025-04-25 13:43:31,095 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action
+2025-04-25 13:43:31,096 - INFO - Clicking the Birds icon button in the SideBarContent..
+2025-04-25 13:43:31,433 - INFO - Landed on the page: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS
+2025-04-25 13:43:31,438 - INFO - Navigating to the landing page.
+2025-04-25 13:43:31,698 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-25 13:43:31,704 - INFO - Verifying Landing page title.
+2025-04-25 13:43:31,710 - INFO - Landing page title verified: JPetStore Demo
+2025-04-25 13:43:31,710 - INFO - Verifying header text.
+2025-04-25 13:43:31,740 - INFO - Header text verified: Welcome to JPetStore 6
+2025-04-25 13:43:31,741 - INFO - Verifying link button "Enter the Store".
+2025-04-25 13:43:31,765 - INFO - Link button "Enter the Store" is visible and has correct text.
+2025-04-25 13:43:31,766 - INFO - Verifying copyright text.
+2025-04-25 13:43:31,791 - INFO - Copyright text verified: Copyright www.mybatis.org
+2025-04-25 13:43:31,793 - INFO - Navigating to the landing page.
+2025-04-25 13:43:31,810 - INFO - Landed on the page: https://petstore.octoperf.com/
+2025-04-25 13:43:31,812 - INFO - Clicking on "Enter the Store" link.
+2025-04-25 13:43:32,173 - INFO - Clicked on "Enter the Store" link.
+2025-04-25 13:43:32,174 - INFO - Verifying redirection to Catalog page.
+2025-04-25 13:43:32,178 - INFO - Redirected to Catalog page successfully.
+2025-04-25 13:43:32,179 - INFO - Closing WebDriver...
